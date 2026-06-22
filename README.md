@@ -1,5 +1,4 @@
-# ClaimCheck-Smart-Medical-Claims-Anomaly-Detection-System-
-Developed a rule-based anomaly detection system for healthcare claims to identify duplicate claims, overbilling, and diagnosis–procedure mismatches. Processed claims data using Python (Pandas) and built a Streamlit dashboard. Automated detection flagged ~12% suspicious claims, improving fraud detection and reducing manual review effort.
+
 # ClaimCheck – Smart Medical Claims Anomaly Detection System
 
 ## Overview
